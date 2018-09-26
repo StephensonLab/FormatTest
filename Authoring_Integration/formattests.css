@@ -3,3 +3,10 @@
     -webkit-transform: rotate(20deg); /* Safari 3-8 */
     transform: rotate(40deg);
 }
+
+
+/* Can objects off SS Canvas be targeted with CSS?*/
+/*
+.checkContainer .checkBtn {
+    background-color: #CC0000 !important;
+}*/
