@@ -10,3 +10,7 @@
 .checkContainer .checkBtn {
     background-color: #CC0000 !important;
 }
+
+.headerContainer {
+    background: #CC0000;
+}
