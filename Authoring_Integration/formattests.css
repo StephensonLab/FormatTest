@@ -7,10 +7,24 @@
 
 /* Can html content off SS Canvas be targeted with CSS?*/
 
+
+/* Color of Progress Button */
+
 .checkContainer .checkBtn {
     background-color: #CC0000 !important;
 }
 
+/* Color of Header Bar */
+
 .headerContainer {
     background: #CC0000;
 }
+
+
+/* Crop content to stage edge */
+
+/*
+.content {
+    overflow: hidden;
+}
+*/
