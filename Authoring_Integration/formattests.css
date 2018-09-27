@@ -20,6 +20,12 @@
     background: #CC0000;
 }
 
+/* Color of Header Bar Text */
+
+.lessonTitle {
+    color: #FFF;
+}
+
 
 /* Crop content to stage edge */
 
