@@ -23,7 +23,7 @@
 /* Color of Header Bar Text */
 
 .headerContainer .lessonTitle {
-    color: #FFF;
+    color: #FFF !important;
 }
 
 
