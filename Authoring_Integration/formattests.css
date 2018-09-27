@@ -22,7 +22,7 @@
 
 /* Color of Header Bar Text */
 
-.lessonTitle {
+.headerContainer .lessonTitle {
     color: #FFF;
 }
 
