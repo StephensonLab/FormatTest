@@ -31,7 +31,15 @@
 .theme-header-score__icon {
     color: #FFF;
     /* replace background with light version of star */
-    background: url(../assets/icon-star-light.svg);
+    background: url(https://style.smartsparrow.com/default-viewer-themes/1.9.1/assets/icon-star-light.svg);
+}
+    
+.theme-header-score__label {
+    color: #FFF;
+}
+
+.theme-header-score__value {
+    color: #FFF;
 }
 
 /* Crop content to stage edge */
