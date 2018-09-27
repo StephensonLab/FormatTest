@@ -23,9 +23,16 @@
 /* Color of Header Bar Text */
 
 .headerContainer .lessonTitle {
-    color: #FFF !important;
+    color: #FFF;
 }
 
+/* Color of Score Text */
+
+.theme-header-score__icon {
+    color: #FFF;
+    /* replace background with light version of star */
+    background: url(../assets/icon-star-light.svg);
+}
 
 /* Crop content to stage edge */
 
