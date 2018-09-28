@@ -46,7 +46,7 @@
 /* Color of Check Buttons active and hover */
 .checkContainer .checkBtn:focus, .checkContainer .closeFeedbackBtn:focus, .checkContainer .showSolnBtn:focus, .checkContainer .checkBtn:hover, .checkContainer .closeFeedbackBtn:hover, .checkContainer .showSolnBtn:hover, .checkContainer .checkBtn:active, .checkContainer .closeFeedbackBtn:active, .checkContainer .showSolnBtn:active 
 {
-    color: #990000 !important;
+    background: #990000 !important;
 }
 
 
