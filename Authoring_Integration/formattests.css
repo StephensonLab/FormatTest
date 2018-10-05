@@ -62,3 +62,9 @@
     -webkit-transform: rotate(70deg); /* Safari 3-8 */
     transform: rotate(70deg);
 }
+
+.blueBtn .button {
+    -ms-transform: rotate(100deg); /* IE 9 */
+    -webkit-transform: rotate(100deg); /* Safari 3-8 */
+    transform: rotate(1000deg);
+}
