@@ -58,4 +58,7 @@
 
 .blueBtn {
     background: rgba(0,128,255,.7);
+    -ms-transform: rotate(70deg); /* IE 9 */
+    -webkit-transform: rotate(70deg); /* Safari 3-8 */
+    transform: rotate(70deg);
 }
