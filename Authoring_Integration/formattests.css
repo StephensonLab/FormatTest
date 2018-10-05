@@ -68,3 +68,7 @@
     -webkit-transform: rotate(100deg); /* Safari 3-8 */
     transform: rotate(1000deg);
 }
+
+.blueBtn #scene_Student {
+    width: 1rem;
+}
