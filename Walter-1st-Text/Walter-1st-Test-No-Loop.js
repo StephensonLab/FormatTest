@@ -3,7 +3,7 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"Walter_s Text Adobe Animate 2 _HTML5 Canvas_atlas_", frames: [[0,0,971,2428],[973,0,764,2358],[0,2430,1407,747]]}
+		{name:"Walter_1st_Test_No_Loop_atlas_", frames: [[0,0,971,2428],[973,0,764,2358],[0,2430,1407,747]]}
 ];
 
 
@@ -12,21 +12,21 @@ lib.ssMetadata = [
 
 
 (lib.fbns4469cutout = function() {
-	this.spriteSheet = ss["Walter_s Text Adobe Animate 2 _HTML5 Canvas_atlas_"];
+	this.spriteSheet = ss["Walter_1st_Test_No_Loop_atlas_"];
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.fbns4476cutout = function() {
-	this.spriteSheet = ss["Walter_s Text Adobe Animate 2 _HTML5 Canvas_atlas_"];
+	this.spriteSheet = ss["Walter_1st_Test_No_Loop_atlas_"];
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.textbubblefromsketch = function() {
-	this.spriteSheet = ss["Walter_s Text Adobe Animate 2 _HTML5 Canvas_atlas_"];
+	this.spriteSheet = ss["Walter_1st_Test_No_Loop_atlas_"];
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 // helper functions:
@@ -664,7 +664,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,294.6,211.7);
 
 // stage content:
 (lib.WaltersTextAdobeAnimate2_HTML5Canvas = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
+if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 
 	// Walter's Text
 	this.instance = new lib.Walters1stText("synched",0);
@@ -709,7 +709,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/Walter_s Text Adobe Animate 2 _HTML5 Canvas_atlas_.png", id:"Walter_s Text Adobe Animate 2 _HTML5 Canvas_atlas_"}
+		{src:"images/Walter_1st_Test_No_Loop_atlas_.png", id:"Walter_1st_Test_No_Loop_atlas_"}
 	],
 	preloads: []
 };
