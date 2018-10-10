@@ -12,6 +12,6 @@
 }
 
 .fontKalam700 {
-  font-family: 'Kalam', cursive;
-  font-weight: 700;
+  font-family: 'Kalam' !important;
+  font-weight: 700 !important;
 }
