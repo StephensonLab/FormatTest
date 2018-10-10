@@ -14,4 +14,6 @@
 .fontKalam700 {
   font-family: 'Kalam' !important;
   font-weight: 700 !important;
+  font-size: 100rem;
+  background: orange;
 }
