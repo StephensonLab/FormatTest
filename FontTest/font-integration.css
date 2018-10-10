@@ -6,12 +6,12 @@
 }
 
 
-.content span .fontKalam400 {
+.content span.fontKalam400 {
   font-family: 'Kalam', cursive !important;
   font-weight: 400 !important;
 }
 
-.fontKalam700 {
+p span.fontKalam700 {
   font-family: 'Kalam' !important;
   font-weight: 700 !important;
   font-size: 100rem;
