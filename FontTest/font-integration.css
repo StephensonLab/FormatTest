@@ -6,8 +6,14 @@
 }
 
 
-.fontKalam400 p span,
-.fontKalam400 p span em {
+.fontKalam400 p span {
+  font-family: 'Kalam', cursive !important;
+  font-weight: 400 !important;
+  line-height: 1.5rem !important;
+  font-size: 19px !important;
+}
+
+.fontKalam400 content em {
   font-family: 'Kalam', cursive !important;
   font-weight: 400 !important;
   line-height: 1.5rem !important;
