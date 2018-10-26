@@ -1,0 +1,58 @@
+#q_1540575394026_951-canyoniFramediv {
+  .content {
+    height: auto !important;
+    width: auto !important;
+  }
+  
+  .stageContainer .content {
+    margin-top: 60px;
+  }
+  
+  .stageContainer {
+    width: 100% !important;
+    height: calc(100% - 60px) !important;
+    margin-top: 60px;
+  }
+  
+  iframe {
+    width: 100%;
+  }
+  
+}
+
+
+.iframe_669c2449-72d7-43d9-9343-6e0fc7bf620a aelp-sim {
+  width: 100% !important;
+}
+
+#iFrameFull {
+  width: 100% !important;
+  height: 100vh !important;
+}
+
+
+#15405808696030.7742533247021848 .content {
+  width: 100% !important;
+}
+
+/*just content*/
+/*
+.content {
+  width: 100% !important;
+}
+*/
+
+
+
+.demoFullScreen .content {
+  width: 100% !important;
+}
+
+.demoFullScreen .stageContainer .content {
+  margin-top: 0;
+}
+
+
+.demoFullScreen .checkContainer {
+  max-width: 70% !important;
+}
