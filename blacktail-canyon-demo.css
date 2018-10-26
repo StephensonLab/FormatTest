@@ -8,9 +8,14 @@
     margin-top: 60px;
   }
   
+  .stageContainer {
+    width: 100% !important;
+    height: calc(100% - 60px) !important;
+    margin-top: 60px;
+  }
+  
   iframe {
     width: 100%;
   }
   
 }
-
