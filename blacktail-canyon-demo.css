@@ -31,10 +31,10 @@
 
 
 #15405808696030.7742533247021848 .content {
-  width: 100%;
+  width: 100% !important;
 }
 
 /*just content*/
 .content {
-  width: 100%;
+  width: 100% !important;
 }
