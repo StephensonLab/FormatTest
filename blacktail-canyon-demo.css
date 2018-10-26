@@ -39,3 +39,9 @@
 .content {
   width: 100% !important;
 }
+
+
+
+.demoFullScreen .content {
+  width: 100% !imporant;
+}
