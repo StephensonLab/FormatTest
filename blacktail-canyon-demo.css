@@ -1,0 +1,16 @@
+#q_1540575394026_951-canyoniFramediv {
+  .content {
+    height: auto !important;
+    width: auto !important;
+  }
+  
+  .stageContainer .content {
+    margin-top: 60px;
+  }
+  
+  iframe {
+    width: 100%;
+  }
+  
+}
+
