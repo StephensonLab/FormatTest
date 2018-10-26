@@ -53,3 +53,7 @@
   margin-top: 0;
 }
 
+
+.demoFullScreen .checkContainer {
+  max-width: 70% !important;
+}
