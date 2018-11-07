@@ -1,0 +1,22 @@
+/* External CSS for Smart Sparrow Customization of Blacktail Canyon and Boxcarr in Smart Sparrow Demo */
+
+/* set width of this particular iFrame element (with id of iFrameFull) to 100% */
+#iFrameFull {
+  width: 100% !important;
+  height: 100vh !important;
+}
+
+/* set content width of this particular screen (with class of demoFullScreen) to 100%  */
+.demoFullScreen .content {
+  width: 100% !important;
+}
+
+/* remove the gap at the top on larger screens */
+.demoFullScreen .stageContainer .content {
+  margin-top: 0;
+}
+
+/* sets the width of the footer element so it is not also full screen */
+.demoFullScreen .checkContainer {
+  max-width: 66.5% !important;
+}
