@@ -1,9 +1,0 @@
-@import url('https://fonts.googleapis.com/css?family=Kalam:400,700');
-
-.fontKalam400 p span,
-.fontKalam400 p span em {
-  font-family: 'Kalam', cursive !important;
-  font-weight: 400 !important;
-  line-height: 1.5rem !important;
-  font-size: 19px !important;
-}
